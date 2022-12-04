@@ -3,7 +3,7 @@ layout: single
 title: "Hossein Kafiabad"
 author_profile: true
 header: 
-  image: /assets/images/website_banner3.png
+  image: /assets/images/website_banner4.png
   caption: "*Scattering of gravity waves by background geostrophic turbulence.*"
 classes: wide
 ---
