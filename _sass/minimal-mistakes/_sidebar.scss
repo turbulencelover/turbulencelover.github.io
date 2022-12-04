@@ -19,7 +19,7 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
+    opacity: 0.8;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
@@ -41,7 +41,7 @@
   }
 
   > * {
-    margin-top: 1em;
+    margin-top: .5em;
     margin-bottom: 1em;
   }
 
@@ -125,8 +125,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 38px;
+  height: 38px;
 
   @include breakpoint($large) {
     display: block;
@@ -180,6 +180,8 @@
 
 .author__bio {
   margin: 0;
+  font-size: 0.9em;
+  font-style: italic;
 
   @include breakpoint($large) {
     margin-top: 10px;
