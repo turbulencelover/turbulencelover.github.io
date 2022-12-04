@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Hossein Kafiabad"
 author_profile: true
 header: 
   image: /assets/images/website_banner5.png
