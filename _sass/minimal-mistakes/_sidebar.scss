@@ -136,10 +136,10 @@
 
   img {
     max-width: 200px; // initially 110 px. 
-    border-radius: 100%; // default 50%, forces square images to circle 
+    border-radius: 0%; // default 50%, forces square images to circle 
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 3px;
       border: 1px solid $border-color;
     }
   }
