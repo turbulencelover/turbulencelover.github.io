@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header: 
-  image: /assets/images/website_banner2.png
+  image: /assets/images/website_banner3.png
 classes: wide
 ---
 {: style="text-align: justify;"}
