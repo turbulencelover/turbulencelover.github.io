@@ -19,22 +19,6 @@
   }
 }
 
-body {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  min-height: 100vh;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-          flex-direction: column;
-}
-
-.initial-content,
-.search-content {
-  flex: 1 0 auto;
-}
-
 .page {
   @include breakpoint($large) {
     float: right;
@@ -65,20 +49,20 @@ body {
       width: 100%;
       clear: both;
     }
+    .page__date {
+      font-size: $type-size-6;
+      position: relative;
+      
+    }
   }
 }
 
 .page__title {
-  margin-top: 0;
   line-height: 1;
-
-  a {
-    color: $text-color;
-    text-decoration: none;
-  }
+  margin: 0.5em 0 0.5em;
 
   & + .page__meta {
-    margin-top: -0.5em;
+    margin-top: 0em;
   }
 }
 
@@ -88,27 +72,13 @@ body {
 }
 
 .page__content {
+  margin: 1.5em 0 0 1em;
+  // margin-top: 1.5em;
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    padding-top: 0.7em;
+    // padding-bottom: 0.7em;
+    border-bottom: 0px solid $border-color;
   }
-
-	h1, h2, h3, h4, h5, h6 {
-		.header-link {
-			position: relative;
-			left: 0.5em;
-			opacity: 0;
-			font-size: 0.8em;
-			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
-			-moz-transition: opacity 0.2s ease-in-out 0.1s;
-			-o-transition: opacity 0.2s ease-in-out 0.1s;
-			transition: opacity 0.2s ease-in-out 0.1s;
-		}
-
-		&:hover .header-link {
-			opacity: 1;
-		}
-	}
 
   p,
   li,
@@ -136,20 +106,6 @@ body {
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
-    }
-  }
-
-  :not(pre) > code {
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
-    font-size: 0.8em;
-    background: $code-background-color;
-    border-radius: $border-radius;
-
-    &::before,
-    &::after {
-      letter-spacing: -0.2em;
-      content: "\00a0"; /* non-breaking space*/
     }
   }
 
@@ -187,8 +143,8 @@ body {
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
-    padding: 3em 0;
+    margin-bottom: 1em;
+    padding: 2.5em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -216,7 +172,7 @@ body {
     .page__lead,
     .btn {
       color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      text-shadow: 3px 3px 4px rgba(#000, 0.8);
     }
 
     .page__lead {
@@ -247,11 +203,11 @@ body {
   padding: 2px 5px;
   color: #fff;
   font-family: $caption-font-family;
-  font-size: $type-size-7;
+  font-size: 0.6em;
   background: #000;
   text-align: right;
   z-index: 5;
-  opacity: 0.5;
+  opacity: 0.4;
   border-radius: $border-radius 0 0 0;
 
   @include breakpoint($large) {
@@ -269,9 +225,6 @@ body {
    ========================================================================== */
 
 .page__share {
-  margin-top: 2em;
-  padding-top: 1em;
-  border-top: 1px solid $border-color;
 
   @include breakpoint(max-width $small) {
     .btn span {
@@ -298,10 +251,10 @@ body {
    ========================================================================== */
 
 .page__meta {
-  margin-top: 2em;
+  margin-top: 1em;
   color: $muted-text-color;
   font-family: $sans-serif;
-  font-size: $type-size-6;
+  font-size: $type-size-8;
 
   p {
     margin: 0;
@@ -316,12 +269,6 @@ body {
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
-}
-
-.page__meta-sep::before {
-  content: "\2022";
-  padding-left: 0.5em;
-  padding-right: 0.5em;
 }
 
 /*
@@ -377,11 +324,11 @@ body {
 
 .taxonomy__title {
   margin-bottom: 0.5em;
-  color: $muted-text-color;
+  color: lighten($text-color, 60%);
 }
 
 .taxonomy__count {
-  color: $muted-text-color;
+  color: lighten($text-color, 50%);
 }
 
 .taxonomy__index {
@@ -414,7 +361,7 @@ body {
 .back-to-top {
   display: block;
   clear: both;
-  color: $muted-text-color;
+  color: lighten($text-color, 50%);
   font-size: 0.6em;
   text-transform: uppercase;
   text-align: right;
