@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Hossein Kafiabad"
   avatar           : "/assets/images/bio_pic.JPG"
-  bio              : "Applied Mathematician, <br> Fluid Dynamicist"
+  bio              : "Applied Mathematician <br> Fluid Dynamicist"
   location         : "Durham, UK"
   email            : #"eay8226@nyu.edu"
   links:
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ElizabethYankovsky"
+      url: "https://github.com/turbulencelover/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
