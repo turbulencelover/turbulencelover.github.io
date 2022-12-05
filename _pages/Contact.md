@@ -2,10 +2,7 @@
 layout: single
 title: "Contact"
 permalink: /Contact/
-header:
-    overlay_image: /assets/images/bannerocean.jpeg
-author_profile: true
-classes: wide
+
 
 
 ---
