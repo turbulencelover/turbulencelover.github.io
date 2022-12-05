@@ -47,6 +47,5 @@ classes: wide
 
 ### PhD Thesis
 &nbsp;
-
-**Hossein Amini Kafiabad**. Spontaneous Imbalance in Rotating Stratified Turbulence. [PDF](/assets/images/HosseinKafiabadCV2022.pdf)
+**Hossein Amini Kafiabad**. Spontaneous Imbalance in Rotating Stratified Turbulence. [PDF](/assets/images/fullthesis.pdf)
 
