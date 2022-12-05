@@ -17,9 +17,13 @@ classes: wide
 ### Journal Articles
 &nbsp;
 
-1. **Hossein A Kafiabad**. Grid-based calculation of the lagrangian mean. *Journal of Fluid Mechanics*, 940, 2022
+1. **Hossein A Kafiabad**. "Grid-based calculation of the lagrangian mean." *Journal of Fluid Mechanics*, 940, 2022
 
-2. 
+2. **Hossein A Kafiabad**, Jacques Vanneste, and William R Young. "Wave-averaged balance: a simple example." *Journal of Fluid Mechanics*, 911:R1, 2021.
+
+3. **Hossein A Kafiabad**, Jacques Vanneste, and William R Young. "Interaction of near-inertial waves with an anticyclonic vortex." *Journal of Physical Oceanography*, 05 Apr. 2021.
+
+4. Miles A C Savva, **Hossein A Kafiabad**,, and Jacques Vanneste. "Inertia-gravity-wave scattering by three-dimensional geostrophic turbulence." *Journal of Fluid Mechanics*, 916:A6, 2021 **(selected for Focus on Fluids)**.
 
 ### Thesis
 &nbsp;
