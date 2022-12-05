@@ -3,7 +3,7 @@ layout: single
 title: "Teaching"
 permalink: /Teaching/
 header:
-    overlay_image: /assets/images/medoingmath.png
+    overlay_image: /assets/images/medoingmath2.png
 author_profile: true
 classes: wide
 ---
