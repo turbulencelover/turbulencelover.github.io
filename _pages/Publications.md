@@ -25,6 +25,6 @@ classes: wide
 
 4. Miles A C Savva, **Hossein A Kafiabad**,, and Jacques Vanneste. "Inertia-gravity-wave scattering by three-dimensional geostrophic turbulence." *Journal of Fluid Mechanics*, 916:A6, 2021 **(selected for Focus on Fluids)**.
 
-### Thesis
+### PhD Thesis
 &nbsp;
 
