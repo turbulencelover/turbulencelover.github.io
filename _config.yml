@@ -120,14 +120,14 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linked-square"
+      icon: "fab fa-fw fa-link"
       url: "https://www.linkedin.com/in/hossein-amini-kafiabad-33347048/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/turbulencelover/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/luv4mountains/"
 
 # Site Footer
 footer:
