@@ -2,10 +2,9 @@
 layout: single
 title: "Contact"
 permalink: /Contact/
-
-
-
 ---
+
+For academic issues, you can email me at
 
 &nbsp;
 {% include feature_row id="feature_row1-0" type="right" %}
