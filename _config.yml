@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "kafiabad@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-user-square"
+      icon: "fas fa-fw fa-user"
       url: "https://www.linkedin.com/in/hossein-amini-kafiabad-33347048/"
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
