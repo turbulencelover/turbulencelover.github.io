@@ -4,12 +4,12 @@ main:
     url: /
   - title: "Research"
     url: /Research/
-  - title: "Publications"
-    url: /Publications/
   - title: "Teaching"
     url: /Teaching/
   - title: "Outreach"
     url: /Outreach/
+  - title: "Publications"
+    url: /Publications/
   - title: "CV"
     url: /assets/images/HosseinKafiabadCV2022.pdf
   - title: "Contact"
