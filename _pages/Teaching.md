@@ -7,9 +7,4 @@ header:
 author_profile: true
 classes: wide
 ---
-During my graduate studies at Princeton, I participated in the [Teaching Transcript Program](https://mcgraw.princeton.edu/graduate-students/teaching-transcript) through the [McGraw Center for Teaching and Learning](https://mcgraw.princeton.edu/).
-The program consisted of pedagogy workshops aimed at developing strategies for effective teaching and mentoring, an assistant instructor appointment, and class observation with feedback. 
-Through the program I learned how to be sensitive towards issues facing modern students and refined my teaching methods. 
-
-I was an instructor assistant for a combined undergraduate/graduate course titled **Introduction to Ocean Physics for Climate** (GEO/MAE 425), taught by Gabe Vecchi and Sonya Legg. 
-My roles included grading homework assignments and exams, hosting office hours each week, teaching several lectures, and helping oversee the laboratory component of the course. I have also given guest lectures in geophysical fluid dynamics and an introductory climate science class at NYU. 
+Throughout my life, teaching has been one of my strong passions. Many aspects of it continue to fascinate me. Some of these aspects include the art of conveying a challenging concept to another human being, playing a role in the generation of knowledge, inspiring a passion for science, deepening my own understanding and simply enjoying a fulfilling social interaction. During 2020-2022, I worked as a University Teacher in the School of Mathematics, University of Edinburgh, which coincided with COVID-19 pandemic. This challenging experience taught me how to adapt to unpredictable and fast-pace changes and to develop a new set of skills and knowledge that I could not have gained in normal circumstances. I am currently lecturing 1-2 course per year in my position as an assistant professor in applied mathematics. Please, find the list of the course I taught below.
