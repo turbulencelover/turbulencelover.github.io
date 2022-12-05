@@ -8,7 +8,7 @@ author_profile: true
 classes: wide
 ---
 
-# Librarian, Web Officer and Trustee of Edinburgh Mathematical Society
+### Librarian, Web Officer and Trustee of Edinburgh Mathematical Society
 
 &nbsp;
 {% include feature_row id="feature_row1-0" type="right" %}
