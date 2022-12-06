@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /Teaching/
 header:
     overlay_image: /assets/images/medoingmath2.png
+    caption: "*Me in 2014 explaining triadic interactions.*"
 author_profile: true
 classes: wide
 ---
