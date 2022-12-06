@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 header: 
   image: /assets/images/website_banner6.png
-  caption: "*Scattering of gravity waves by background geostrophic turbulence.*"
+  caption: "*[Scattering of gravity waves by background geostrophic turbulence](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/31E102FB36D4066476A6A5862B4BFCD8/S0022112019003008a.pdf/div-class-title-diffusion-of-inertia-gravity-waves-by-geostrophic-turbulence-div.pdf).*"
 classes: wide
 ---
 {: style="text-align: justify;"}
