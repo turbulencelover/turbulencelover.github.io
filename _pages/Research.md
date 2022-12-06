@@ -3,8 +3,8 @@ layout: single
 title: "Research"
 permalink: /Research/
 header:
-    overlay_image: /assets/images/bannerresearch_alt.png
-    caption: "*Eddies within the Antarctic Circumpolar Current in the [NeverWorld2](https://doi.org/10.5194/gmd-15-6567-2022) model.*"
+    overlay_image: /assets/images/NIW_anticyclone2.png
+    caption: "*[Near-Inertial Wave Concentration inside Anticyclone](https://journals.ametsoc.org/view/journals/phoc/51/6/JPO-D-20-0257.1.xml).*"
 author_profile: true
 classes: wide
 
