@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Acadmic Administration and Outreach"
+title: "Leadership and Outreach"
 permalink: /Outreach/
 header:
     overlay_image: /assets/images/bannerocean.jpeg
