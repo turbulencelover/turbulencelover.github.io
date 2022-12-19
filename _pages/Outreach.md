@@ -7,7 +7,13 @@ header:
 author_profile: true
 classes: wide
 ---
-### Librarian, Web Officer and Trustee of Edinburgh Mathematical Society
+
+This page will be completed later.
+
+
+### Web Officer and Trustee of Edinburgh Mathematical Society (2018-now)
+
+### Hiking and Cycling executive at McGill Outdoors Club (2014-2016)
 
 &nbsp;
 {% include feature_row id="feature_row1-0" type="right" %}

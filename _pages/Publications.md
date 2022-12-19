@@ -23,15 +23,15 @@ classes: wide
 
 12. **Hossein A Kafiabad**, Jacques Vanneste, and William R Young. "Interaction of near-inertial waves with an anticyclonic vortex." *Journal of Physical Oceanography*, 05 Apr. 2021.
 
-11. Miles A C Savva, **Hossein A Kafiabad**,, and Jacques Vanneste. "Inertia-gravity-wave scattering by three-dimensional geostrophic turbulence." *Journal of Fluid Mechanics*, 916:A6, 2021. **(selected for Focus on Fluids)**.
+11. Miles A C Savva, **Hossein A Kafiabad**, and Jacques Vanneste. "Inertia-gravity-wave scattering by three-dimensional geostrophic turbulence." *Journal of Fluid Mechanics*, 916:A6, 2021. **(selected for Focus on Fluids)**.
 
 10. **Hossein A Kafiabad**, Miles A C Savva, and Jacques Vanneste. "Diffusion of inertia-gravity waves by geostrophic turbulence." *Journal of Fluid Mechanics*, 869:R7, 2019.
 
 9. **Hossein A Kafiabad** and Peter Bartello. "Spontaneous imbalance in the non-hydrostatic boussinesq equations." *Journal of Fluid Mechanics*, 847:614-643, 2018.
 
-8. **Hossein A Kafiabad**  and Peter Bartello. "Rotating stratified turbulence and the slow manifold." *Computers \& Fluids*, 151:23-34, 2017.
+8. **Hossein A Kafiabad**  and Peter Bartello. "Rotating stratified turbulence and the slow manifold." *Computers & Fluids*, 151:23-34, 2017.
 
-7. **Hossein A Kafiabad** and Peter Bartello. Balance dynamics in rotating strati ed turbulence. *Journal of Fluid Mechanics*, 795:914-949, 2016.
+7. **Hossein A Kafiabad** and Peter Bartello. "Balance dynamics in rotating stratified turbulence." *Journal of Fluid Mechanics*, 795:914-949, 2016.
 
 6. **Hossein Amini Kafiabad** , Pak Wai Chan, and George Haller. "Lagrangian detection of wind shear for landing aircraft." *Journal of Atmospheric and Oceanic Technology*, 30(12):2808-2819, 2013.
 
