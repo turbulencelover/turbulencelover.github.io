@@ -6,8 +6,6 @@ Cloned from the Minimal Mistakes Jekyll Theme; jekyll serve to deploy on local s
 
 ## Credits
 
-### Creator
-
 **Michael Rose**
 
 - <https://mademistakes.com>
