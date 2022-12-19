@@ -1,12 +1,11 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# Hossein Kafiabad's personal webpage 
+## Using [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 My website. 
 Cloned from the Minimal Mistakes Jekyll Theme; jekyll serve to deploy on local server.
 ---
 
 ## Credits
-
-### Creator
 
 **Michael Rose**
 
