@@ -1,5 +1,5 @@
 # Hossein Kafiabad's personal webpage 
-## using [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+## Using [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 My website. 
 Cloned from the Minimal Mistakes Jekyll Theme; jekyll serve to deploy on local server.
