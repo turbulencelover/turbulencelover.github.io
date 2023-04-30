@@ -11,7 +11,7 @@ classes: wide
 
 # Undergraduate Projects
 
-## 2022-2023
+## 2023-2024
 
 **Hidden skeleton of the ocean (4H project)**
 
