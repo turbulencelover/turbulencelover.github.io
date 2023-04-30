@@ -10,6 +10,8 @@ main:
     url: /Outreach/
   - title: "Publications"
     url: /Publications/
+  - title: "Projects"
+    url: /Projects/
   - title: "CV"
     url: /assets/images/HosseinKafiabadCV2022.pdf
   - title: "Contact"
