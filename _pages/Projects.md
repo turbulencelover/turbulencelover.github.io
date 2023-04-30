@@ -1,12 +1,15 @@
 ---
 layout: single
-title: "Leadership and Outreach"
+title: "Projects"
 permalink: /Outreach/
 header:
     overlay_image: /assets/images/bannerocean.jpeg
 author_profile: true
 classes: wide
 ---
+
+
+# Undergraduate Projects
 
 ## 2022-2023
 
@@ -24,11 +27,9 @@ Most computational approaches to find LCS require seeding a large number of part
 
 This project is well suited to students with strong programming skills, passion for fluid dynamics and interest in climate sciences.
 
+[1] Peacock, Thomas, and George Haller. "Lagrangian coherent structures: The hidden skeleton of fluid flows." Physics today 66.2 (2013): 41.
 
-&nbsp;
-{% include feature_row id="feature_row1-0" type="right" %}
-{% include feature_row id="feature_row1-1" type="right" %}
-{% include feature_row id="feature_row1-2" type="right" %}
-{% include feature_row id="feature_row1-3" type="right" %}
-{% include feature_row id="feature_row1-4" type="right" %}
+[2] Olascoaga, María J., and George Haller. "Forecasting sudden changes in environmental pollution patterns" Proceedings of the National Academy of Sciences 109.13 (2012): 4738-4743.
+
+[3] Kafiabad, Hossein A., and Jacques Vanneste. "Computing Lagrangian means." Journal of Fluid Mechanics 960 (2023): A36.
 
