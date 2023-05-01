@@ -13,7 +13,7 @@ classes: wide
 
 ## 2023-2024
 
-[Hidden skeleton of the ocean (4H project)](https://turbulencelover.github.io/Projects/2023_4H/)
+[Hidden skeleton of the ocean (4H project)](https://turbulencelover.github.io/Projects/2023_4H)
 
 
 
@@ -34,7 +34,7 @@ This project is well suited to students with strong programming skills, passion 
 [3] Kafiabad, Hossein A., and Jacques Vanneste. "Computing Lagrangian means." Journal of Fluid Mechanics 960 (2023): A36.
 
 
-[Numerical simulation of stochastic differential equations (3H project)]((https://turbulencelover.github.io/Projects/2023_3H/))
+[Numerical simulation of stochastic differential equations (3H project)]((https://turbulencelover.github.io/Projects/2023_3H))
 
 Stochastic differential equations (SDEs) are one of the fundamental tools for modelling financial, industrial, and scientific problems. In these equations, at least one of the terms is a stochastic process, resulting in a solution that is a stochastic process a well. To get a better feeling about SDEs and their difference with ordinary differential equation, consider the motion of a projectile in the air. If there is no wind (or the wind is well defined a priori), we can find the exact trajectory of the projectile by solving a differential equation that comes from the laws of physics. If there is a randomly varying wind, we cannot determine the trajectory for every launch of the projectile. However, if we know the statistics of the wind (like its mean, variance and distribution), we can derive the statistics of the projectile trajectory, which is provided by the solution to a SDE. 
 
