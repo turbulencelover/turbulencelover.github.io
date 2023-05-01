@@ -8,14 +8,12 @@ author_profile: true
 classes: wide
 --- 
 
-### Preprints
-&nbsp;
-1. **Hossein A Kafiabad** and Jacques Vanneste. "Computing Lagrangian Mans." *Under revision for Journal of Fluid Mechanics*, 2022. [PDF](https://arxiv.org/pdf/2208.02682.pdf)
-
-2. Michael R Cox, **Hossein A Kafiabad**, and Jacques Vanneste. "Inertia-gravity-wave diffusion by geostrophic turbulence: the impact of flow time dependence." *Under revision for the Journal of Fluid Mechanics*, 2022. [PDF](https://arxiv.org/pdf/2207.09386.pdf)
-
 ### Journal Articles
 &nbsp;
+
+16. **Hossein A Kafiabad** and Jacques Vanneste. "Computing Lagrangian Mans." *Journal of Fluid Mechanics*, 960:A36, 2023. [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4EC3DDD20C017D5363DD6BA4E9F3831F/S0022112023002288a_hi.pdf/computing-lagrangian-means.pdf)
+
+15. Michael R Cox, **Hossein A Kafiabad**, and Jacques Vanneste. "Inertia-gravity-wave diffusion by geostrophic turbulence: the impact of flow time dependence." *Journal of Fluid Mechanics*, 958:A21, 2023. [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/436FB6FF361DEA46229DFC2D6F04F467/S0022112023000836a.pdf/inertia-gravity-wave-diffusion-by-geostrophic-turbulence-the-impact-of-flow-time-dependence.pdf) 
 
 14. **Hossein A Kafiabad**. "Grid-based calculation of the lagrangian mean." *Journal of Fluid Mechanics*, 940, 2022.
 
