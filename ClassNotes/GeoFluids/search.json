@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Geophysical and Astrophysical Fluids IV",
+    "title": "Geophysical and Astrophysical Fluids",
     "section": "",
     "text": "Preface"
   },
   {
     "objectID": "index.html#module-overview",
     "href": "index.html#module-overview",
-    "title": "Geophysical and Astrophysical Fluids IV",
+    "title": "Geophysical and Astrophysical Fluids",
     "section": "Module overview",
     "text": "Module overview\nWelcome to Geophysical and Astrophysical Fluids IV.\nThis module builds on Fluid Mechanics III to introduce the concepts required for understanding the flows that are common in geophysical and astrophysical systems such as the Earth and the Sun.\nIn Michaelmas, our aim is to derive and understand equations that govern many geophysical flows. We build on the concepts explored in Fluid Mechanics III to introduce the different types of dynamics encountered when rotation and/or stratification are present. We will derive mathematical descriptions and explore the rich landscape of waves and instabilities that can occur in these systems making connections between the mathematics and observed phenomena in planetary atmospheres and oceans along the way.\nIn Epiphany, we will extend the continuum model of liquids and gases from Fluid Mechanics III to encompass plasmas, through the theory of magnetohydrodynamics (MHD). Because plasmas are ionised gases that conduct electricity, there are now two primary variables: the velocity field and the magnetic field. Their coupling leads not only to important physical effects (such as solar eruptions, planetary magnetospheres, or the failure of fusion reactors) but also to elegant mathematical properties, for whose discovery Hannes Alfvén was awarded a Nobel prize in 1970."
   },
   {
     "objectID": "index.html#lecture-notes",
     "href": "index.html#lecture-notes",
-    "title": "Geophysical and Astrophysical Fluids IV",
+    "title": "Geophysical and Astrophysical Fluids",
     "section": "Lecture notes",
     "text": "Lecture notes\n\nWe will generally follow these notes in the lectures, although not word for word. If you do spot any significant discrepancies, then please let us know! You should also be keeping up to date with the associated problem sheets, found on Learn Ultra.\n\n\n\n\n\n\nIn these notes, remarks in boxes like this provide extra information.\n\n\n\n\n\n\n\n\n\nExample\n\n\n\nThese boxes highlight “examples”.\n\n\n\n\n\n\n\n\nImportant Equation Set\n\n\n\nBoxes like this one are used to highlight important equation sets.\n\n\nBelow is a table summarising the notation used throughout these notes. The list is not exhaustive.\n\nNotation\n\n\n\n\n\n\nSymbol\nMeaning\n\n\n\n\n\\(\\ub=(u,v,w)\\)\n3D fluid velocity and components (in Cartesian coordinates)\n\n\n\\(\\vb=(u,v)\\)\n2D fluid velocity and components (in Cartesian coordinates)\n\n\n\\(\\nabla = (\\cfrac{\\partial}{\\partial x},\\cfrac{\\partial}{\\partial y},\\cfrac{\\partial}{\\partial z})\\)\n3D gradient (in Cartesian coordinates)\n\n\n\\(\\nabla_H = (\\cfrac{\\partial}{\\partial x},\\cfrac{\\partial}{\\partial y})\\)\n2D gradient (in Cartesian coordinates)\n\n\n\\(\\Delta = \\cfrac{\\partial^2}{\\partial x^2}+\\cfrac{\\partial^2}{\\partial y^2}+\\cfrac{\\partial^2}{\\partial z^2}\\)\nLaplacian (in Cartesian coordinates)\n\n\n\\(\\rho\\)\nFluid density\n\n\n\\(\\nu\\)\nKinematic viscosity\n\n\n\\(p\\)\nPressure\n\n\n\\(b\\)\nBuoyancy\n\n\n\\(T\\)\nTemperature\n\n\n\\(\\fb_b\\)\nBody force\n\n\n\\(N(z)\\)\nBuoyancy (Brunt–Väisälä) frequency\n\n\n\nThese notes have been created with Quarto (https://quarto.org/docs/books)."
   },
