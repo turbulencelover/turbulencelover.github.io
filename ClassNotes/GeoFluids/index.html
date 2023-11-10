@@ -4628,6 +4628,12 @@ return!"\t\n\x0B\f\r                　\u2028\u2029
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Rotating fluids</span></span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./geostrophy.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Geostrophic theory</span></span></a>
+  </div>
+</li>
       </ul>
   </li>
     </ul>
@@ -4650,7 +4656,7 @@ return!"\t\n\x0B\f\r                　\u2028\u2029
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
-<p hidden=""> $$ \def\ab{\boldsymbol{a}} \def\bb{\boldsymbol{b}} \def\eb{\boldsymbol{e}} \def\fb{\boldsymbol{f}} \def\gb{\boldsymbol{g}} \def\kb{\boldsymbol{k}} \def\nb{\boldsymbol{n}} \def\ub{\boldsymbol{u}} \def\vb{\boldsymbol{v}} \def\xb{\boldsymbol{x}} \def\Xb{\boldsymbol{X}} \def\Ab{\boldsymbol{A}} \def\Bb{\boldsymbol{B}} \newcommand{\Cb}{\boldsymbol{C}} \newcommand{\Db}{\boldsymbol{D}} \def\Eb{\boldsymbol{E}} \def\Fb{\boldsymbol{F}} \def\Jb{\boldsymbol{J}} \def\Ub{\boldsymbol{U}} \def\xib{\boldsymbol{\xi}} \def\evx{\boldsymbol{e}_x} \def\evy{\boldsymbol{e}_y} \def\evz{\boldsymbol{e}_z} \def\evr{\boldsymbol{e}_r} \def\evt{\boldsymbol{e}_\theta} \def\evp{\boldsymbol{e}_r} \def\evf{\boldsymbol{e}_\phi} \def\evb{\boldsymbol{e}_\parallel} \def\omb{\boldsymbol{\omega}} \def\dA{\;\mathrm{d}\Ab} \def\dS{\;\mathrm{d}\boldsymbol{S}} \def\dV{\;\mathrm{d}V} \def\dl{\mathrm{d}\boldsymbol{l}} \def\bfzero{\boldsymbol{0}} \def\Rey{\mathrm{Re}} \newcommand{\dds}[1]{\frac{\mathrm{d}{#1}}{\mathrm{d}s}} \newcommand{\ddy}[2]{\frac{\partial{#1}}{\partial{#2}}} \newcommand{\ddt}[1]{\frac{\mathrm{d}{#1}}{\mathrm{d}t}} \newcommand{\DDt}[1]{\frac{\mathrm{D}{#1}}{\mathrm{D}t}} \newcommand{\gradH}{\nabla_\mathrm{H}} \newcommand{\grad}{\nabla} \newcommand{\Dl}{\mathrm{\Delta}} \newcommand{\Omb}{\boldsymbol{\mathrm{\Omega}}} \newcommand{\Omrm}{\mathrm{\Omega}} \newcommand{\Ld}{\mathcal{L}_d } \newcommand{\vh}{\grave{\boldsymbol{v}}} \newcommand{\bh}{\grave{b}} \newcommand{\ph}{\grave{p}} \newcommand{\fh}{\grave{\fb}} \newcommand{\tha}{\grave{t}} \newcommand{\wh}{\grave{w}} \newcommand{\zh}{\grave{z}} \newcommand{\gradHh}{\grave{\nabla}_H} \newcommand{\psih}{\grave{\psi}} \newcommand{\Ro}{\mathrm{Ro}} \newcommand{\ddz}[1]{\frac{\mathrm{d}{#1}}{\mathrm{d}z}} $$ </p>
+<p hidden=""> $$ \def\ab{\boldsymbol{a}} \def\bb{\boldsymbol{b}} \def\eb{\boldsymbol{e}} \def\fb{\boldsymbol{f}} \def\gb{\boldsymbol{g}} \def\kb{\boldsymbol{k}} \def\nb{\boldsymbol{n}} \def\ub{\boldsymbol{u}} \def\vb{\boldsymbol{v}} \def\xb{\boldsymbol{x}} \def\Xb{\boldsymbol{X}} \def\Ab{\boldsymbol{A}} \def\Bb{\boldsymbol{B}} \newcommand{\Cb}{\boldsymbol{C}} \newcommand{\Db}{\boldsymbol{D}} \def\Eb{\boldsymbol{E}} \def\Fb{\boldsymbol{F}} \def\Jb{\boldsymbol{J}} \def\Ub{\boldsymbol{U}} \def\xib{\boldsymbol{\xi}} \def\evx{\boldsymbol{e}_x} \def\evy{\boldsymbol{e}_y} \def\evz{\boldsymbol{e}_z} \def\evr{\boldsymbol{e}_r} \def\evt{\boldsymbol{e}_\theta} \def\evp{\boldsymbol{e}_r} \def\evf{\boldsymbol{e}_\phi} \def\evb{\boldsymbol{e}_\parallel} \def\omb{\boldsymbol{\omega}} \def\dA{\;\mathrm{d}\Ab} \def\dS{\;\mathrm{d}\boldsymbol{S}} \def\dV{\;\mathrm{d}V} \def\dl{\mathrm{d}\boldsymbol{l}} \def\bfzero{\boldsymbol{0}} \def\Rey{\mathrm{Re}} \newcommand{\dds}[1]{\frac{\mathrm{d}{#1}}{\mathrm{d}s}} \newcommand{\ddy}[2]{\frac{\partial{#1}}{\partial{#2}}} \newcommand{\ddt}[1]{\frac{\mathrm{d}{#1}}{\mathrm{d}t}} \newcommand{\DDt}[1]{\frac{\mathrm{D}{#1}}{\mathrm{D}t}} \newcommand{\gradH}{\nabla_\mathrm{H}} \newcommand{\grad}{\nabla} \newcommand{\Dl}{\mathrm{\Delta}} \newcommand{\Omb}{\boldsymbol{\mathrm{\Omega}}} \newcommand{\Omrm}{\mathrm{\Omega}} \newcommand{\Ld}{\mathcal{L}_d } \newcommand{\nd}[1]{{#1}^*} \newcommand{\vh}{\nd{\boldsymbol{v}}} \newcommand{\bh}{\nd{b}} \newcommand{\ph}{\nd{p}} \newcommand{\fh}{\nd{\fb}} \newcommand{\tha}{\nd{t}} \newcommand{\wh}{\nd{w}} \newcommand{\zh}{\nd{z}} \newcommand{\gradHh}{\nd{\nabla}_H} \newcommand{\psih}{\nd{\psi}} \newcommand{\Ro}{\mathrm{Ro}} \newcommand{\ddz}[1]{\frac{\mathrm{d}{#1}}{\mathrm{d}z}} $$ </p>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
