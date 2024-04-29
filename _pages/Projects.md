@@ -12,7 +12,7 @@ classes: wide
 # Undergraduate Projects
 
 ---
-## 2024-2023
+## 2024-2025
 [Teaching Fourier transform and its application (3H project)](https://turbulencelover.github.io/Projects/2024_3H)
 
 ---
