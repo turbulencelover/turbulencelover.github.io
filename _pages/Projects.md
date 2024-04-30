@@ -15,7 +15,7 @@ classes: wide
 ## 2024-2025
 [Teaching Fourier transform and its application (3H project)](https://turbulencelover.github.io/Projects/2024_3H)
 
-[Mathematical modeling of the ocean with Oceananigans](https://turbulencelover.github.io/Projects/2024_3H)
+[Mathematical modeling of the ocean with Oceananigans](https://turbulencelover.github.io/Projects/2024_4H)
 
 ---
 ## 2023-2024
