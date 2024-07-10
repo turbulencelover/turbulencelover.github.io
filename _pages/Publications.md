@@ -11,6 +11,8 @@ classes: wide
 ### Journal Articles
 &nbsp;
 
+17. Michael R Cox, **Hossein A Kafiabad**, and Jacques Vanneste. "Inhomogeneity-induced wavenumber diffusion." arXiv preprint arXiv:2406.17149 (2024). [PDF](https://arxiv.org/pdf/2406.17149)
+
 16. **Hossein A Kafiabad** and Jacques Vanneste. "Computing Lagrangian Mans." *Journal of Fluid Mechanics*, 960:A36, 2023. [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4EC3DDD20C017D5363DD6BA4E9F3831F/S0022112023002288a_hi.pdf/computing-lagrangian-means.pdf)
 
 15. Michael R Cox, **Hossein A Kafiabad**, and Jacques Vanneste. "Inertia-gravity-wave diffusion by geostrophic turbulence: the impact of flow time dependence." *Journal of Fluid Mechanics*, 958:A21, 2023. [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/436FB6FF361DEA46229DFC2D6F04F467/S0022112023000836a.pdf/inertia-gravity-wave-diffusion-by-geostrophic-turbulence-the-impact-of-flow-time-dependence.pdf) 
