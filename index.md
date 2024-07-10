@@ -10,7 +10,9 @@ classes: wide
 I am an associate professor in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at Durham University. My recent research has been focused on numerical and theoretical Geophysical Fluid Dynamics, more prominently on the interaction of waves, vortices and turbulence in the atmosphere and ocean. Occasionally, I dabble into other areas of fluid dynamics and develop new computational tools and methods for different problems in physics and engineering. Aside from research, I enjoy outdoor activities in nature and teaching different topics in applied mathematics. <br><br>
 I completed my PhD at McGill University supervised by [Prof. Peter Bartello](https://www.mcgill.ca/meteo/facultystaff/bartello), where I studied balance dynamics in rotating stratified turbulence. During my postgraduate studies, I was granted two prestigious awards: the Abdel-Meguid Fellowship and Greville Smith Scholarship. Prior to my PhD, I was a Research Assistant in [Prof. George Haller](http://georgehaller.com/)’s group studying the Lagrangian detection of wind shear over commercial airports. From 2018 to 2022, I worked in the School of Mathematics at the University of Edinburgh, as Postdoctoral Researcher and University Teacher. My postdoctoral research was under the supervision of [Prof. Jacques Vanneste](https://www.maths.ed.ac.uk/~vanneste/page1.html).
 
-<span style="color:red"> <strong>Currently accepting Postdoctoral Research Associate <strong> [for more information and application check this link](https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=24001120&tz=GMT%2B01%3A00&tzname=Europe%2FLondon)
+<span style="color:red"> <strong>Currently accepting Postdoctoral Research Associate <strong> 
+
+[for more information and application please check this link](https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=24001120&tz=GMT%2B01%3A00&tzname=Europe%2FLondon)
 
 *For potential PhD positions, please contact me via email in the [contact](https://turbulencelover.github.io/Contact/)*.
 
