@@ -11,6 +11,10 @@ classes: wide
 ### Journal Articles
 &nbsp;
 
+19. Abhijeet Minz, Lois E Baker, **Hossein A Kafiabad**, and Jacques Vanneste. "The exponential Lagrangian mean." arXiv preprint arXiv:2406.18243 (2024). [PDF](https://arxiv.org/pdf/2406.18243)
+
+18. Lois E Baker, **Hossein A Kafiabad**, and Jacques Vanneste. "Lagrangian filtering for wave-mean flow decomposition." arXiv preprint arXiv:2406.03477 (2024). [PDF](https://arxiv.org/pdf/2406.03477)
+
 17. Michael R Cox, **Hossein A Kafiabad**, and Jacques Vanneste. "Inhomogeneity-induced wavenumber diffusion." arXiv preprint arXiv:2406.17149 (2024). [PDF](https://arxiv.org/pdf/2406.17149)
 
 16. **Hossein A Kafiabad** and Jacques Vanneste. "Computing Lagrangian Mans." *Journal of Fluid Mechanics*, 960:A36, 2023. [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4EC3DDD20C017D5363DD6BA4E9F3831F/S0022112023002288a_hi.pdf/computing-lagrangian-means.pdf)
