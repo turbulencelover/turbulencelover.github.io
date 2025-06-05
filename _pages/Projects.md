@@ -11,6 +11,13 @@ classes: wide
 
 # Undergraduate Projects
 
+
+---
+## 2025-2026
+[Finite Volume Methods for Simulating Fluid Flows (3H project)](https://turbulencelover.github.io/Projects/2025_3H)
+
+[Mountain waves in geophysical fluids](https://turbulencelover.github.io/Projects/2025_4H)
+
 ---
 ## 2024-2025
 [Teaching Fourier transform and its applications (3H project)](https://turbulencelover.github.io/Projects/2024_3H)
