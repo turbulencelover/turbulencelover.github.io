@@ -11,7 +11,11 @@ classes: wide
 
 # Undergraduate Projects
 
+---
+## 2025-2026
+[Numerical methods for solving ordinary differential equations (3H project)](https://turbulencelover.github.io/Projects/2026_3H)
 
+[Optimising fluid flows: finding the most effective disturbances](https://turbulencelover.github.io/Projects/2026_4H)
 ---
 ## 2025-2026
 [Finite Volume Methods for Simulating Fluid Flows (3H project)](https://turbulencelover.github.io/Projects/2025_3H)
