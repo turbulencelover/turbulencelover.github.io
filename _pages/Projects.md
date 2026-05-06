@@ -13,7 +13,7 @@ classes: wide
 
 ---
 ## 2026-2027
-[Numerical methods for solving ordinary differential equations (3H project)](https://turbulencelover.github.io/Projects/2026_3H)
+[Numerical Analysis of Differential Equations (3H project)](https://turbulencelover.github.io/Projects/2026_3H)
 
 [Optimising fluid flows: finding the most effective disturbances (4H project)](https://turbulencelover.github.io/Projects/2026_4H)
 
