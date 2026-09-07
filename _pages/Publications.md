@@ -15,7 +15,7 @@ classes: wide
 
 21. **Hossein A Kafiabad** and Majid Bastankhah. "Two-way coupling of gravity waves and wind farm wakes: a reduced-order boundary-layer model." arXiv preprint arXiv:2605.30077 (2026). [PDF](https://arxiv.org/pdf/2605.30077)
 
-20. Alexia Everley, **Hossein A Kafiabad**, and Majid Bastankhah. "Modelling farm-to-farm interaction using a fast linearised numerical approach." arXiv preprint arXiv:2605.04782 (2026). [PDF](https://arxiv.org/pdf/2605.04782)
+20. Alexia Everley, **Hossein A Kafiabad**, and Majid Bastankhah. "Modelling farm-to-farm interaction using a fast linearised numerical approach." *Journal of Physics: Conference Series*, 3224:032071, 2026. [DOI](https://doi.org/10.1088/1742-6596/3224/3/032071)
 
 19. Abhijeet Minz, Lois E Baker, **Hossein A Kafiabad**, and Jacques Vanneste. "Efficient Lagrangian averaging with exponential filters." *Physical Review Fluids*, 10(7):074902, 2025. [PDF](https://arxiv.org/pdf/2406.18243)
 
