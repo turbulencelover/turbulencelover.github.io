@@ -11,11 +11,17 @@ classes: wide
 ### Journal Articles
 &nbsp;
 
-19. Abhijeet Minz, Lois E Baker, **Hossein A Kafiabad**, and Jacques Vanneste. "The exponential Lagrangian mean." arXiv preprint arXiv:2406.18243 (2024). [PDF](https://arxiv.org/pdf/2406.18243)
+22. Cai Maitland-Davies, C Wilson, and **Hossein A Kafiabad**. "Generalized Lagrangian averaging enables accurate trajectory reconstruction with coarse-in-time data." Preprint, ESS Open Archive, 2026. [PDF](https://essopenarchive.org/doi/pdf/10.22541/essoar.15006796/v1)
 
-18. Lois E Baker, **Hossein A Kafiabad**, and Jacques Vanneste. "Lagrangian filtering for wave-mean flow decomposition." arXiv preprint arXiv:2406.03477 (2024). [PDF](https://arxiv.org/pdf/2406.03477)
+21. **Hossein A Kafiabad** and Majid Bastankhah. "Two-way coupling of gravity waves and wind farm wakes: a reduced-order boundary-layer model." arXiv preprint arXiv:2605.30077 (2026). [PDF](https://arxiv.org/pdf/2605.30077)
 
-17. Michael R Cox, **Hossein A Kafiabad**, and Jacques Vanneste. "Inhomogeneity-induced wavenumber diffusion." arXiv preprint arXiv:2406.17149 (2024). [PDF](https://arxiv.org/pdf/2406.17149)
+20. Alexia Everley, **Hossein A Kafiabad**, and Majid Bastankhah. "Modelling farm-to-farm interaction using a fast linearised numerical approach." arXiv preprint arXiv:2605.04782 (2026). [PDF](https://arxiv.org/pdf/2605.04782)
+
+19. Abhijeet Minz, Lois E Baker, **Hossein A Kafiabad**, and Jacques Vanneste. "Efficient Lagrangian averaging with exponential filters." *Physical Review Fluids*, 10(7):074902, 2025. [PDF](https://arxiv.org/pdf/2406.18243)
+
+18. Lois E Baker, **Hossein A Kafiabad**, Cai Maitland-Davies, and Jacques Vanneste. "Lagrangian filtering for wave-mean flow decomposition." *Journal of Fluid Mechanics*, 1009:A40, 2025. [PDF](https://arxiv.org/pdf/2406.03477)
+
+17. Michael R Cox, **Hossein A Kafiabad**, and Jacques Vanneste. "Inhomogeneity-induced wavenumber diffusion." *Journal of Fluid Mechanics*, 1007:A15, 2025. [PDF](https://arxiv.org/pdf/2406.17149)
 
 16. **Hossein A Kafiabad** and Jacques Vanneste. "Computing Lagrangian Mans." *Journal of Fluid Mechanics*, 960:A36, 2023. [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4EC3DDD20C017D5363DD6BA4E9F3831F/S0022112023002288a_hi.pdf/computing-lagrangian-means.pdf)
 
@@ -48,6 +54,11 @@ classes: wide
 2. **Hossein Amini Kafiabad** and Kayvan Sadeghy. "Chaotic behavior of a single spherical gas bubble surrounded by a giesekus liquid: A numerical study." *Journal of Non-Newtonian Fluid Mechanics*, 165(13-14):800-811, 2010.
 
 1. **Hossein Amini Kafiabad** and Kayvan Sadeghy. "On the use of genetic algorithm for finnding the neutral instability curve in plane poiseuille flow." *International Journal of Non-Linear Mechanics*, 45(7):691-698, 2010.
+
+### Book Chapters
+&nbsp;
+
+1. **Hossein A Kafiabad** and Costanza Rodda. "Two-dimensional turbulence." *Reference Module in Earth Systems and Environmental Sciences*, Elsevier, 2025. [DOI](https://doi.org/10.1016/b978-0-323-96026-7.00216-2)
 
 ### PhD Thesis
 &nbsp;
